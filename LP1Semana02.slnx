@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="OperadoresEmInteiros/OperadoresEmInteiros.csproj" />
   <Project Path="SmoothOperator/SmoothOperator.csproj" />
+  <Project Path="VariousOperators/VariousOperators.csproj" />
 </Solution>
