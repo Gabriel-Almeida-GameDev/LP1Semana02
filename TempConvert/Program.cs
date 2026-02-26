@@ -43,6 +43,10 @@ namespace TempConvert
                     Console.WriteLine($"{calc2:f2} F = {Result2:f2} C");
                     Console.WriteLine($"Absolute value: {Absoluto2:f2}");
                     break;
+
+                default:
+                    Console.WriteLine("Invalid unit.");
+                    break;
             }
         }
     }
